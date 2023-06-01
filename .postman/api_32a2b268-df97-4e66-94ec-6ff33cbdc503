@@ -9,7 +9,7 @@ id = 32a2b268-df97-4e66-94ec-6ff33cbdc503
 
 [config.relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"22925566-d1eb93e9-e008-47e9-8c6d-282b579d259b","path":"Secret Santa change password new.json","metaData":{}}
+files[] = {"id":"22925566-d1eb93e9-e008-47e9-8c6d-282b579d259b","path":"Santa_сhange_password_New.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
